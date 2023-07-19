@@ -3,6 +3,8 @@
 - Angular2+
 - TypeScript
 - .NET 7
+- Docker 🐳
+- Docker Compose
 - C#
 - Java
 - Spring Boot
