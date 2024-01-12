@@ -7,4 +7,5 @@ I am currently studying ML and AI
     - PyTorch and TensorFlow
   - PHP
     - Laravel
-  - Angular 
+  - Angular
+  - Cloud Computing and Docker
