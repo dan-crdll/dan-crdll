@@ -1,4 +1,4 @@
-<h1 align="center">How's going 👋, I'm Daniele</h1>
+<h1 align="center">Ciao 👋, I'm Daniele</h1>
 <h3 align="center">AI and Robotics Student from Italy</h3>
 
 - 🔭 I’m currently working on **GAN for text-2-speech generation**
