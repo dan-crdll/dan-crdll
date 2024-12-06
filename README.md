@@ -1,7 +1,7 @@
 <h1 align="center">Ciao 👋, I'm Daniele</h1>
 <h3 align="center">AI and Robotics Student from Italy</h3>
 
-- 🔭 I’m currently working on **Explainable AI**
+- 🔭 I’m currently working on **VSLAM**
 
 - 🌱 I’m currently learning **Computer Vision, Natural Language Processing and Reinforcement Learning**
 
